@@ -1,0 +1,16 @@
+# Ignorer les données
+data/
+
+# Ignorer les environnements virtuels
+venv/
+.env/
+.venv/
+
+# Ignorer les fichiers système et caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+# Ignorer les dossiers de brouillon total (optionnel)
+bac_a_sable/
